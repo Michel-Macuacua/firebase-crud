@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90148238204",
+    "project_id": "fireapp-73a6f",
+    "storage_bucket": "fireapp-73a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90148238204:android:319a27a91b520079e2eaf9",
+        "android_client_info": {
+          "package_name": "com.michelconsulting.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90148238204-q9tlqhn46dkc1iav0ps15eqo1m2flph8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj1MVK_uWEaisL8FtfFDaEpz1HnMFHSbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90148238204-q9tlqhn46dkc1iav0ps15eqo1m2flph8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
